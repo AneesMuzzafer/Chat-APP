@@ -154,6 +154,8 @@ button:disabled {
     padding: 12px;
     margin: 0 16px 0 0;
     flex-grow: 1;
+    display: block;
+    min-width: 80px ;
 }
 
 .compose button {
